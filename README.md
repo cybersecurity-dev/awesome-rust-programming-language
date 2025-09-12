@@ -14,9 +14,30 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## 📖 Contents
+- [Installation Steps](#installation-steps)
+- [Learning Resources](#learning-resources)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
 ## Installation Steps
 * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) installation steps is [here](https://github.com/cybersecurity-dev/PowerShell-Toolkit?tab=readme-ov-file#programming-language)
 * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) installation steps is [here](https://github.com/cybersecurity-dev/Bash-Toolkit/blob/main/README.md#rust)
 
 ## Learning Resources
 * [https://doc.rust-lang.org/rust-by-example/](https://doc.rust-lang.org/rust-by-example/)
+
+##
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-rust-programming-language/graphs/contributors)!
+
+[🔼 Back to top](#awesome-rust-programming-language-)
